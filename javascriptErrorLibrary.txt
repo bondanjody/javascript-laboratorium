@@ -1,0 +1,5 @@
+1. Untuk mengatasi error : "Uncaught SyntaxError: Cannot use import statement outside a module" -> tambahkan "type":"module" pada file package.json
+
+2. Untuk mengatasi error : "SyntaxError: The requested module './Tiger.js' does not provide an export named 'default' -> tambahkan keyword "default" diantara keyword "export" dan "class" pada class yang di ekspor
+
+3. Jika muncul error seperti : "require is not defined" atau error tentang import -> coba cek lagi atribut "type" di package.json

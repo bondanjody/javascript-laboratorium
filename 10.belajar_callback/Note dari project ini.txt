@@ -1,0 +1,14 @@
+- bisa dilihat bahwa kita menggunakan banyak sekali callback, contoh : 
+method success, error, event handling dengan menggunakan jquery
+
+- bahkan di dalam callback kita bisa lagi membuat callback
+
+- jika kita terlalu banyak menumpuk callback, maka akan terjadi sesuatu yang dinamakan 
+"callback hell" yang ciri-cirinya kodenya yang semakin menjorok ke dalam. Ini tidaklah salah
+namun ada cara yang lebih efektif lagi yaitu dengan mengganti jquery dengan fungsi bawaan
+Javascript yaitu fetch. 
+
+- saat kita menggunakan jquery kita menggunakan library eksternal yang artinya akan lebih berat
+dibanding kita menggunakan fungsi bawaan javascript
+
+- sebelum menggunakan 'fetch' kita harus paham dulu 'promise' 

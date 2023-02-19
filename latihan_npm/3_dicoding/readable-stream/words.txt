@@ -1,0 +1,1 @@
+In this article let us understand what JavaScript require() and import() statements do

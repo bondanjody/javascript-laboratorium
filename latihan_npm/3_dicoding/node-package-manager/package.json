@@ -1,0 +1,15 @@
+{
+  "name": "package-manager",
+  "version": "1.0.0",
+  "description": "belajar npm dari dicoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

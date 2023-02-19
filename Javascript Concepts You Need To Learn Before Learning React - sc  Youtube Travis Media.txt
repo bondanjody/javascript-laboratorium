@@ -1,0 +1,11 @@
+Javascript Concepts You Need To Learn Before Learning React (sc : Youtube Travis Media):
+1. arrow functions 
+2. module exports (cara export dan import module/object)
+3. destructuring (object dan array)
+4. spread operator (array,map,set dan object)
+5. nullish coalescing operator (hampir sama dengan ternary hanya saja tidak ada else)
+6. map function
+7. filter function
+8. sets (ketika kita ingin menggunakan data yang unik / tidak ada yang sama / berulang / duplikasi)
+
+link yutub : https://www.youtube.com/watch?v=9O8TlqtU6iE&t=605 

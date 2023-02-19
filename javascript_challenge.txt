@@ -1,0 +1,8 @@
+JAVASCRIPT CODING CHALLENGE
+
+1. Membuat program untuk memasukkan ke dalam array bilangan genap 1 - 30
+
+2. melakukan destructuring obyek dengan nama variabel berbeda dengan nama properti
+
+3. membuat program yang menampilkan tombol dan disampingnya akan muncul jumlah berapa kali tombol di klik
+aturan main : berapa banyak klik yang dapat dilakukan dalam 1 menit (selepas tombol start diklik) , jika sudah lewat 1 menit maka tombol sudah tidak bisa diakses (jumlah klik tidak bisa bertambah)

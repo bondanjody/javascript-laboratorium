@@ -1,0 +1,14 @@
+{
+  "name": "2_jest",
+  "version": "1.0.0",
+  "description": "Latihan testing dengan menggunakan module jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bondanjs",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}

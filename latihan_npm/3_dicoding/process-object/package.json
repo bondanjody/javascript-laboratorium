@@ -1,0 +1,16 @@
+{
+  "name": "process-object",
+  "version": "1.0.0",
+  "description": "tentang objek process pada nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "momen" : "node ./menggunakan_moment.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}

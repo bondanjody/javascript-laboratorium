@@ -1,0 +1,33 @@
+1. copy starter template bootstrap
+2. setting jquery (jangan gunakan yang slim) web jquery : https://code.jquery.com
+3. hubungkan script javascript kita sendiri (index.js)
+4. ubah title halaman. ubah h1 halaman. usahakan susunannya menggunakan styling bootstrapnya (row, col, dan lainnya)
+5. open in live server 
+6. setting pembuatan card bootstrap
+7. menulis di index.js request ke API menggunakan AJAX dengan menggunakan property success untuk menampilkan
+hasil request, dan properti error untuk menampilkan jenis error
+8. menghilangkan tulisan Search dari hasil request kita
+9. melakukan looping terhadap json hasil request kita, untuk ditampilkan di card
+10. membuat variabel cards kosong (yang nantinya digunakan untuk menampung template literals yang didalamnya disisipkan data hasil request kita)
+11. membuat loop forEach terhadap json (objek) data request kita, dimana cards diisi dengan template literals
+12. memberi nama class 'movie-container' pada html tempat kita akan menampilkan data request
+13. menggunakan jquery kita memasukkan nama class di atas lalu menginisiasinya dengan 'cards'
+14. mengeset judul film, gambar film, tahun film , pada template literal 'cards' (yang tadinya kita masih menggunakan data dummy) supaya sesuai dengan data .
+15. untuk mendapatkan hasil yang lebih detail dari OMDb, maka parameter yang digunakan bukan 's', tetapi 'i' lalu diisi dengan imdbID nya
+16. copy live demo Modal dari web bootstrap, modifikasi kode modal dan kode template literal pada 'cards'
+17. mengeset modal supaya menjadi besar dan di tengah
+18. membuat div class container-fluid di dalam modal body
+19. membuat / membagi col dalam container
+20. memasukkan list group dan mengeset list group (membuat data dummy dulu)
+21. menambahkan nama class pada button 'show details' pada cards
+22. menambahkan properti data-imdbid pada button diatas
+23. menambahkan kode ketika tombol di klik
+24. mengecek apakah sudah terambil datanya dengan cara mengklik movie detail lalu sambil menglihat di console
+25. membuat ajax dengan akhiran url dari 's' diubah menjadi 'i'
+26. lalu membuat kondisi jika berhasil (success) dengan mengcut kode di dalam html modal body di taruh ke variabel 'moviedetails' (dalam template literal)
+27. lalu memodifikasi template literals supaya menerima data yang sesuai request
+28. memisahkan isi 'cards' dan 'movieDetails' menjadi function terpisah supaya lebih rapi
+29. menambahkan search 
+30. membuat kode yang menghandle saat tombol search di klik
+
+ 

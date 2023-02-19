@@ -1,0 +1,19 @@
+Script pada NPM
+
+pada package.json terdapat properti "scripts" yang bisa digunakan untuk 
+menjalankan perintah terminal yang panjang menjadi pendek (alias)
+
+- Special script : start, stop, restart, version
+
+Perintah untuk menjalankan script yang tidak termasuk ke dalam special scripts:
+npm run-script <nama script>
+
+Perintah untuk menjalankan script yang termasuk ke dalam special scripts:
+npm <nama special script>
+
+Note : saat menjalankan special script ada 3 tahap :
+- pre
+- script yang dijalankan
+- post
+
+==========================================================================

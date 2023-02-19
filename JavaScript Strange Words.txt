@@ -1,0 +1,17 @@
+JavaScript Strange Words :
+
+1. Tipe data Symbol
+
+2. Truthy and Falsy (beberapa nilai / tipe data yang dianggap true atau false)
+
+3. Object Composition
+
+4. Gorilla/Banana Problem
+
+5. Object.assign()
+
+6. Konsep dasar Functional Programming : Pure Function, Immutability, Recursive, Higher Order Function
+
+7. Javascript recursive
+
+8. Stream in Node.js
