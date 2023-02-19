@@ -29,7 +29,7 @@ const dataBulanan = [
 ];
 
 for (const expense of daftarObject) {
-    const expenseMonth = expense.date.getMonth();
+    const expenseMonth = expense.date.getMonth();   // NOTE : Date object dimulai dari nol 
     dataBulanan[expenseMonth].value += expense.amount;
 }
 
